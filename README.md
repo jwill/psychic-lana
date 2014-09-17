@@ -1,5 +1,4 @@
 Support libraries for the Visual effects made in UD292
-
 ==============
 
 The scripts in this repository were used to create many of the visual effects in
