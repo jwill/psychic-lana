@@ -29,8 +29,8 @@ A summary of what they do is as follows:
 
 To Install:
 
-1. Install [node.js](http://nodejs.org/download/)
-2. Install [FFMPEG](https://www.ffmpeg.org/download.html)
+1. Install [node.js](http://nodejs.org/download/).
+2. Install [FFMPEG](https://www.ffmpeg.org/download.html).
 3. Install [Cairo](http://cairographics.org/download/).
 4. Download this repository and extract it somewhere.
 5. Run ```npm install``` to install all the dependencies.
