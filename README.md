@@ -4,7 +4,9 @@ Support libraries for the Visual effects made in UD292
 
 The scripts in this repository were used to create many of the visual effects in
 ud292. Sure any of these effects could be done with the run of the mill video
-editor but doing them with JavaScript is fun because you can. To make things
+editor but doing them with JavaScript is fun because you can. 
+
+To make things
 more sane to run programmatically, I've taken some liberties from time to time
 like choosing to run the code on Node.js or by using a library that implements
 the Canvas API with a couple key changes. As a result, you can not just open up
