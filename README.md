@@ -11,7 +11,7 @@ like choosing to run the code on Node.js or by using a library that implements
 the Canvas API with a couple key changes. As a result, you can not just open up
 a browser window and drop the code in and expect it to run. You will need to
 install several libraries (listed below), some of which will compile themselves
-as a part of the installation process
+as a part of the installation process.
 
 A summary of what they do is as follows:
 
