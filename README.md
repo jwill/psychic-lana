@@ -14,15 +14,15 @@ as a part of the installation process
 
 A summary of what they do is as follows:
 
-chromakey - Replaces colors in a source image and saves them as transparent pixels
-composite - Takes two source images and creates a composite image of the two.
-getImages - Gets the individual frames from a video file and saves them as lossless PNG files
-grayscale - Averages color data from image to create a grayscale image
-invertColor - Invert the color values in an image
-nightvision - Scales colors on the green range to create a night vision effect. Composites a mask image over it.
-removeImages - Simple clean up script to delete all images in a directory
-saveToVideo - Takes a directory of images and encodes them to a video file
-vibrance     - Adjust color saturation values
+```chromakey``` - Replaces colors in a source image and saves them as transparent pixels. <br/>
+```composite``` - Takes two source images and creates a composite image of the two. <br/>
+```getImages``` - Gets the individual frames from a video file and saves them as lossless PNG files. <br/>
+```grayscale``` - Averages color data from image to create a grayscale image. <br/>
+```invertColor``` - Invert the color values in an image. <br/>
+```nightvision``` - Scales colors on the green range to create a night vision effect. Composites a mask image over it. <br/>
+```removeImages``` - Simple clean up script to delete all images in a directory. <br/>
+```saveToVideo``` - Takes a directory of images and encodes them to a video file. <br/>
+```vibrance```     - Adjust color hue/saturation values. <br/>
 
 
 To Install:
