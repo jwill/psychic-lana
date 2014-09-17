@@ -1,0 +1,27 @@
+{
+  "name": "ud292-helper",
+  "version": "0.0.0",
+  "description": "Scripts used to create visual effects in ud292",
+  "main": "",
+  "dependencies": {
+    "canvas": "^1.1.6",
+    "coffee-script": "^1.8.0",
+    "fluent-ffmpeg": "^2.0.0-rc2",
+    "fs-extra": "^0.11.1",
+    "minimist": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jwill/psychic-lana.git"
+  },
+  "author": "James Williams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jwill/psychic-lana/issues"
+  },
+  "homepage": "https://github.com/jwill/psychic-lana"
+}
